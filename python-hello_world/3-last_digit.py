@@ -15,7 +15,7 @@ elif number>0:
         print("last digit of {} is {} and is less than 6 and not 0".format(number,last_digit)) 
     #elif(int((number<0))):
        #last_digit=(last_digit)*-1
-       #print("last digit of {} is {} and is less than 0".format(number,last_digit))        
+       #print("last digit of {} is {} and is le        
 
 else:
          print("in else block")
