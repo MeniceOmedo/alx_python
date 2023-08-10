@@ -3,12 +3,12 @@ def main():
  count=len(argv)
  print("{} arguments:".format(count))
 
- argv.append(input("enter argument: "))
+ argv.append("Hello")
  count=len(argv)
  print("{} argument.".format(count))
  print("{}: {}".format(count, argv[0]))
 
- argv.append(input("enter argument: "))
+ argv.append("Holberton")
  count=len(argv)
  print("{} arguments:".format(count))
  print("{}: {}".format(count-1, argv[0]))
@@ -16,7 +16,7 @@ def main():
 
 
 
- argv.append(input("enter argument: "))
+ argv.append("School")
  count=len(argv)
  print("{} arguments:".format(count))
  print("{}: {}".format(count-2, argv[0]))
@@ -24,7 +24,7 @@ def main():
  print("{}: {}".format(count, argv[2]))
 
 
- argv.append(input("enter argument: "))
+ argv.append("98")
  count=len(argv)
  print("{} arguments:".format(count))
  print("{}: {}".format(count-3, argv[0]))
@@ -33,7 +33,7 @@ def main():
  print("{}: {}".format(count, argv[3]))
 
 
- argv.append(input("enter argument: "))
+ argv.append("Battery")
  count=len(argv)
  print("{} arguments:".format(count))
  print("{}: {}".format(count-4, argv[0]))
@@ -43,7 +43,7 @@ def main():
  print("{}: {}".format(count, argv[4]))
 
 
- argv.append(input("enter argument: "))
+ argv.append("Street ")
  count=len(argv)
  print("{} arguments:".format(count))
  print("{}: {}".format(count-5, argv[0]))
