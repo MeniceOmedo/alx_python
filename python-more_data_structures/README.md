@@ -1,0 +1,1 @@
+This project was carried out to exemplify the use of dictionaies ,list and sets in different cases.
