@@ -1,0 +1,1 @@
+The inheritance is fundamental in object oriented programming, this project seeks to exemplify the various use cases
